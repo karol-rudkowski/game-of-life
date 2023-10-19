@@ -1,9 +1,0 @@
-# ninja log v5
-6	1984	7009432597503722	CMakeFiles/gameOfLife.dir/Game.cpp.obj	41de9bdce33118ba
-47	938	7009432586995291	CMakeFiles/gameOfLife.dir/GameCLI.cpp.obj	172e910260090204
-29	443	7009432581892225	CMakeFiles/gameOfLife.dir/GameGUI.cpp.obj	66d650500533c998
-21	829	7009432585631444	CMakeFiles/gameOfLife.dir/Array.cpp.obj	7265fda649cce01b
-5	562	7009432773419259	CMakeFiles/gameOfLife.dir/Engine.cpp.obj	bc05eb249f6588a3
-1	156	7194408841117259	build.ninja	c4c5a877a95d5ffb
-13	946	7009432587035328	CMakeFiles/gameOfLife.dir/main.cpp.obj	f7edc95eec640fea
-563	696	7009432774697374	gameOfLife.exe	15fa84e53a4e0e6f
